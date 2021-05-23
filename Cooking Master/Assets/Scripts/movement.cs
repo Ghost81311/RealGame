@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class movement : MonoBehaviour
 {
-    //Rigidbody rb;
-    float force = 4f;
+    Rigidbody rb;
+    [SerializeField] float force = 1000f;
     // Start is called before the first frame update
     void Start()
     {
-        //rb = GetComponent<Rigidbody>();
+        rb = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        gameObject.transform.position = new Vector3(gameObject.transform.position.x - (force*Time.deltaTime), gameObject.transform.position.y, gameObject.transform.position.z);
+        rb.AddRelativeForce(-(force * Time.deltaTime),0,0);
     }
 }
