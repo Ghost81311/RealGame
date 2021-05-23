@@ -13,24 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-23T18:23:38.730+05:30
+  lastUpdatedAtString: 2021-05-23T18:23:51.323+05:30
   initializedAtString: 2021-05-23T18:17:38.192+05:30
   entries:
   - path: Cooking Master\Library\gfu\cache\branches.yaml
     fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Cooking Master\Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Cooking Master\Library\gfu\cache\gitlog.yaml
-    fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -43,12 +31,6 @@ MonoBehaviour:
   - path: Cooking Master\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Cooking Master\Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
