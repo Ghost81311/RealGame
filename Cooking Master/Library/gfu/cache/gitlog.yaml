@@ -13,9 +13,303 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-23T18:21:48.318+05:30
+  lastUpdatedAtString: 2021-05-23T18:23:38.954+05:30
   initializedAtString: 2021-05-23T18:18:32.217+05:30
   log:
+  - commitID: b54a7bcd3e50405b00e2092ae0a28055206d7c14
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: test2
+    description: 
+    timeString: 2021-05-23T18:23:36.000+05:30
+    commitTimeString: 2021-05-23T18:23:36.000+05:30
+    changes:
+    - path: Cooking Master\Logs\AssetImportWorker0-prev.log
+      fullPath: D:\game development\RealGame\Cooking Master\Logs\AssetImportWorker0-prev.log
+      projectPath: Logs\AssetImportWorker0-prev.log
+      originalPath: Cooking Master\Logs\AssetImportWorker0.log
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Cooking Master\Logs\shadercompiler-AssetImportWorker0.log
+      fullPath: D:\game development\RealGame\Cooking Master\Logs\shadercompiler-AssetImportWorker0.log
+      projectPath: Logs\shadercompiler-AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Cooking Master\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\game development\RealGame\Cooking Master\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: e1d2e4a21b5248903524414230aaf8aa7b7cc4db
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: test1
+    description: 
+    timeString: 2021-05-23T18:22:07.000+05:30
+    commitTimeString: 2021-05-23T18:22:07.000+05:30
+    changes:
+    - path: Cooking Master\Library\APIUpdater\project-dependencies.graph
+      fullPath: D:\game development\RealGame\Cooking Master\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ArtifactDB
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\22\22b97a375204ccfcca776ea2994de28b
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\22\22b97a375204ccfcca776ea2994de28b
+      projectPath: Library\Artifacts\22\22b97a375204ccfcca776ea2994de28b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\2d\2de18b4f07f6e736257478e29974b9aa
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\2d\2de18b4f07f6e736257478e29974b9aa
+      projectPath: Library\Artifacts\2d\2de18b4f07f6e736257478e29974b9aa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\51\51b107cd56c0a7e762762e6fa1dd0ffb
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\51\51b107cd56c0a7e762762e6fa1dd0ffb
+      projectPath: Library\Artifacts\51\51b107cd56c0a7e762762e6fa1dd0ffb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\55\55a92bb61ea598871ca91e25eac682ad
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\55\55a92bb61ea598871ca91e25eac682ad
+      projectPath: Library\Artifacts\55\55a92bb61ea598871ca91e25eac682ad
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\55\55d1d03b1b08d0c6fe73d3c5afb34aaf
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\55\55d1d03b1b08d0c6fe73d3c5afb34aaf
+      projectPath: Library\Artifacts\55\55d1d03b1b08d0c6fe73d3c5afb34aaf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\69\69a8f9a041d0fbee26535e34527b42b3
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\69\69a8f9a041d0fbee26535e34527b42b3
+      projectPath: Library\Artifacts\69\69a8f9a041d0fbee26535e34527b42b3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\a1\a1b1d71b8c09eb7d20c5bead3d17b65d
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\a1\a1b1d71b8c09eb7d20c5bead3d17b65d
+      projectPath: Library\Artifacts\a1\a1b1d71b8c09eb7d20c5bead3d17b65d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\a5\a58376bd15005fa230fba5e5684de6fb
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\a5\a58376bd15005fa230fba5e5684de6fb
+      projectPath: Library\Artifacts\a5\a58376bd15005fa230fba5e5684de6fb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\ba\ba36e47f7db940aa2cec015157d05959
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\ba\ba36e47f7db940aa2cec015157d05959
+      projectPath: Library\Artifacts\ba\ba36e47f7db940aa2cec015157d05959
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\c4\c40712992ded1df698c079c1402b6084
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\c4\c40712992ded1df698c079c1402b6084
+      projectPath: Library\Artifacts\c4\c40712992ded1df698c079c1402b6084
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\eb\eb4db6d6c4b24eedb9372e694e829b5f
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\eb\eb4db6d6c4b24eedb9372e694e829b5f
+      projectPath: Library\Artifacts\eb\eb4db6d6c4b24eedb9372e694e829b5f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\Artifacts\fc\fcb73b2b5ca99c97e463e5e2dfd85564
+      fullPath: D:\game development\RealGame\Cooking Master\Library\Artifacts\fc\fcb73b2b5ca99c97e463e5e2dfd85564
+      projectPath: Library\Artifacts\fc\fcb73b2b5ca99c97e463e5e2dfd85564
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\EditorInstance.json
+      fullPath: D:\game development\RealGame\Cooking Master\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\PackageManager\ProjectCache
+      fullPath: D:\game development\RealGame\Cooking Master\Library\PackageManager\ProjectCache
+      projectPath: Library\PackageManager\ProjectCache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\PackageManager\ProjectCache.md5
+      fullPath: D:\game development\RealGame\Cooking Master\Library\PackageManager\ProjectCache.md5
+      projectPath: Library\PackageManager\ProjectCache.md5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\SceneVisibilityState.asset
+      fullPath: D:\game development\RealGame\Cooking Master\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\ShaderCache\EditorEncounteredVariants
+      fullPath: D:\game development\RealGame\Cooking Master\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\SourceAssetDB
+      fullPath: D:\game development\RealGame\Cooking Master\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\StateCache\MainStageHierarchy\6c\6cf40fad7436ea72d672b2cfd6c8c763.json
+      fullPath: D:\game development\RealGame\Cooking Master\Library\StateCache\MainStageHierarchy\6c\6cf40fad7436ea72d672b2cfd6c8c763.json
+      projectPath: Library\StateCache\MainStageHierarchy\6c\6cf40fad7436ea72d672b2cfd6c8c763.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\branches.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\gituser.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: a93d2fcb53a3efc76e9c7f28462a64be38a01275
     mergeA: 
     mergeB: 
