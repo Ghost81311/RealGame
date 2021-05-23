@@ -13,9 +13,489 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-23T18:24:08.138+05:30
+  lastUpdatedAtString: 2021-05-23T18:26:48.718+05:30
   initializedAtString: 2021-05-23T18:18:32.217+05:30
   log:
+  - commitID: 808cf09f8c0905c9100920c19be274a68421c445
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: svxv
+    description: 
+    timeString: 2021-05-23T18:26:46.000+05:30
+    commitTimeString: 2021-05-23T18:26:46.000+05:30
+    changes:
+    - path: Cooking Master\Temp\UnityTempFile-0dab2b61b6b9aac489c9b0fc85c6e1be
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-0dab2b61b6b9aac489c9b0fc85c6e1be
+      projectPath: Temp\UnityTempFile-0dab2b61b6b9aac489c9b0fc85c6e1be
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-1217e83f0d267924985ce900b1a768e4
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-1217e83f0d267924985ce900b1a768e4
+      projectPath: Temp\UnityTempFile-1217e83f0d267924985ce900b1a768e4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 55f2b24c038419841ce2ac11786df558f2824bf1
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: bfdx
+    description: 
+    timeString: 2021-05-23T18:26:36.000+05:30
+    commitTimeString: 2021-05-23T18:26:36.000+05:30
+    changes:
+    - path: Cooking Master\Temp\UnityTempFile-04917e4721a317443b394d42df6f612a
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-04917e4721a317443b394d42df6f612a
+      projectPath: Temp\UnityTempFile-04917e4721a317443b394d42df6f612a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 470fea114284071f4c70f44fe4c35e83cff41b15
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: dsvxcV
+    description: 
+    timeString: 2021-05-23T18:26:10.000+05:30
+    commitTimeString: 2021-05-23T18:26:10.000+05:30
+    changes:
+    - path: Cooking Master\Temp\Unity.VSCode.Editor.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Unity.VSCode.Editor.dll.hash
+      projectPath: Temp\Unity.VSCode.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityEditor.TestRunner.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityEditor.TestRunner.dll.hash
+      projectPath: Temp\UnityEditor.TestRunner.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityEditor.UI.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityEditor.UI.dll.hash
+      projectPath: Temp\UnityEditor.UI.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityEngine.TestRunner.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityEngine.TestRunner.dll.hash
+      projectPath: Temp\UnityEngine.TestRunner.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityEngine.UI.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityEngine.UI.dll.hash
+      projectPath: Temp\UnityEngine.UI.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 1055f7f646a326d19bb7676ed791954ddb4b8df3
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: dfgdx
+    description: 
+    timeString: 2021-05-23T18:25:57.000+05:30
+    commitTimeString: 2021-05-23T18:25:57.000+05:30
+    changes:
+    - path: Cooking Master\Temp\UnityTempFile-1476d1324bc21e144992579e46967cca
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-1476d1324bc21e144992579e46967cca
+      projectPath: Temp\UnityTempFile-1476d1324bc21e144992579e46967cca
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-17752c8b23ba5724b8692eb7cab43da7
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-17752c8b23ba5724b8692eb7cab43da7
+      projectPath: Temp\UnityTempFile-17752c8b23ba5724b8692eb7cab43da7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-1964833ff6bf3be44864b5a1b42f8274
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-1964833ff6bf3be44864b5a1b42f8274
+      projectPath: Temp\UnityTempFile-1964833ff6bf3be44864b5a1b42f8274
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-1ef62971ca7c065448bcc184f030ff47
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-1ef62971ca7c065448bcc184f030ff47
+      projectPath: Temp\UnityTempFile-1ef62971ca7c065448bcc184f030ff47
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-217133b0d47b12942bb34fd5bd9af259
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-217133b0d47b12942bb34fd5bd9af259
+      projectPath: Temp\UnityTempFile-217133b0d47b12942bb34fd5bd9af259
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-2e620e67a4619a04ab8de3a9eaaa5b8f
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-2e620e67a4619a04ab8de3a9eaaa5b8f
+      projectPath: Temp\UnityTempFile-2e620e67a4619a04ab8de3a9eaaa5b8f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-34019c66eaac8734a85046e4089306c7
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-34019c66eaac8734a85046e4089306c7
+      projectPath: Temp\UnityTempFile-34019c66eaac8734a85046e4089306c7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-34fa5762e1d477a41b8ae8e8d0508839
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-34fa5762e1d477a41b8ae8e8d0508839
+      projectPath: Temp\UnityTempFile-34fa5762e1d477a41b8ae8e8d0508839
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-3962eb6979f591b48a6a641edc9f469e
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-3962eb6979f591b48a6a641edc9f469e
+      projectPath: Temp\UnityTempFile-3962eb6979f591b48a6a641edc9f469e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-3a5c654b646d68d438819c303a6787f9
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-3a5c654b646d68d438819c303a6787f9
+      projectPath: Temp\UnityTempFile-3a5c654b646d68d438819c303a6787f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 1481dbd74f6d86d62a5910701f23b390b972958b
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: xzdvzs
+    description: 
+    timeString: 2021-05-23T18:25:48.000+05:30
+    commitTimeString: 2021-05-23T18:25:48.000+05:30
+    changes:
+    - path: Cooking Master\Temp\UnityTempFile-3de5ae93419b9694aa4f9402348acf40
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-3de5ae93419b9694aa4f9402348acf40
+      projectPath: Temp\UnityTempFile-3de5ae93419b9694aa4f9402348acf40
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-4845c7fecc3a52e489c57823d55461f4
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-4845c7fecc3a52e489c57823d55461f4
+      projectPath: Temp\UnityTempFile-4845c7fecc3a52e489c57823d55461f4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-48a7b43c90cdc924c8bc44fd91e660a7
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-48a7b43c90cdc924c8bc44fd91e660a7
+      projectPath: Temp\UnityTempFile-48a7b43c90cdc924c8bc44fd91e660a7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-4d33500b15875764d96e0b35e14d4621
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-4d33500b15875764d96e0b35e14d4621
+      projectPath: Temp\UnityTempFile-4d33500b15875764d96e0b35e14d4621
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-4da344727f8710d499f236ea6d119b16
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-4da344727f8710d499f236ea6d119b16
+      projectPath: Temp\UnityTempFile-4da344727f8710d499f236ea6d119b16
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-5410402024e32da49ab2f1dbfbf42357
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-5410402024e32da49ab2f1dbfbf42357
+      projectPath: Temp\UnityTempFile-5410402024e32da49ab2f1dbfbf42357
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-5930486063daced4a9ddcdf3910f5984
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-5930486063daced4a9ddcdf3910f5984
+      projectPath: Temp\UnityTempFile-5930486063daced4a9ddcdf3910f5984
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-691dd4964e362b94da80767d303eb559
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-691dd4964e362b94da80767d303eb559
+      projectPath: Temp\UnityTempFile-691dd4964e362b94da80767d303eb559
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-6b2a2d0ca0dffbd40a738fcb20bf4daf
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-6b2a2d0ca0dffbd40a738fcb20bf4daf
+      projectPath: Temp\UnityTempFile-6b2a2d0ca0dffbd40a738fcb20bf4daf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-7b9191a320083504f8078bda24a6ead3
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-7b9191a320083504f8078bda24a6ead3
+      projectPath: Temp\UnityTempFile-7b9191a320083504f8078bda24a6ead3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 789c36c16a6024131c876743b61d0c369d7bbb02
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: sfvsz
+    description: 
+    timeString: 2021-05-23T18:25:39.000+05:30
+    commitTimeString: 2021-05-23T18:25:39.000+05:30
+    changes:
+    - path: Cooking Master\Temp\UnityTempFile-80cae3978846d0342824482ad4bbae9e
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-80cae3978846d0342824482ad4bbae9e
+      projectPath: Temp\UnityTempFile-80cae3978846d0342824482ad4bbae9e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-8a20668333123814ebe88a9509953a2f
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-8a20668333123814ebe88a9509953a2f
+      projectPath: Temp\UnityTempFile-8a20668333123814ebe88a9509953a2f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-961850e42608a8c4cac1255f84e05893
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-961850e42608a8c4cac1255f84e05893
+      projectPath: Temp\UnityTempFile-961850e42608a8c4cac1255f84e05893
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-9b42bce62923d4340a01632bc69f3c9f
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-9b42bce62923d4340a01632bc69f3c9f
+      projectPath: Temp\UnityTempFile-9b42bce62923d4340a01632bc69f3c9f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-9e822dc5992e08e4a93c1aaa07632273
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-9e822dc5992e08e4a93c1aaa07632273
+      projectPath: Temp\UnityTempFile-9e822dc5992e08e4a93c1aaa07632273
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-a4d1b8d09b6bd04489e46c530aafb9d5
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-a4d1b8d09b6bd04489e46c530aafb9d5
+      projectPath: Temp\UnityTempFile-a4d1b8d09b6bd04489e46c530aafb9d5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-a90cb1ef7eac1c644805cf42d50bc262
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-a90cb1ef7eac1c644805cf42d50bc262
+      projectPath: Temp\UnityTempFile-a90cb1ef7eac1c644805cf42d50bc262
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-c85da4617a4a6c1429be876c60e9bc40
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-c85da4617a4a6c1429be876c60e9bc40
+      projectPath: Temp\UnityTempFile-c85da4617a4a6c1429be876c60e9bc40
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-c8b946cd1f692e64791a5344bcd269d7
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-c8b946cd1f692e64791a5344bcd269d7
+      projectPath: Temp\UnityTempFile-c8b946cd1f692e64791a5344bcd269d7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-cc8797d8cd5d4eb4f9b12571c8875329
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-cc8797d8cd5d4eb4f9b12571c8875329
+      projectPath: Temp\UnityTempFile-cc8797d8cd5d4eb4f9b12571c8875329
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: ea4fc0a2009499f3bc38cbf377726a492f03eaa2
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: vxfdsgvfzds
+    description: 
+    timeString: 2021-05-23T18:25:30.000+05:30
+    commitTimeString: 2021-05-23T18:25:30.000+05:30
+    changes:
+    - path: Cooking Master\Temp\UnityTempFile-cfbd6dce329c24042bbf31d149258602
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-cfbd6dce329c24042bbf31d149258602
+      projectPath: Temp\UnityTempFile-cfbd6dce329c24042bbf31d149258602
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-d89907c312c6bfa46a0d34c7b7113491
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-d89907c312c6bfa46a0d34c7b7113491
+      projectPath: Temp\UnityTempFile-d89907c312c6bfa46a0d34c7b7113491
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-db3d9c156166117468d0cf8d3e018c53
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-db3d9c156166117468d0cf8d3e018c53
+      projectPath: Temp\UnityTempFile-db3d9c156166117468d0cf8d3e018c53
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-e07006940391a264a801023bd240f56e
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-e07006940391a264a801023bd240f56e
+      projectPath: Temp\UnityTempFile-e07006940391a264a801023bd240f56e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-ecf31bcad94a6bd49b82b6ae82170603
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-ecf31bcad94a6bd49b82b6ae82170603
+      projectPath: Temp\UnityTempFile-ecf31bcad94a6bd49b82b6ae82170603
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-f1e1bd27804a384418153a77db346f47
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-f1e1bd27804a384418153a77db346f47
+      projectPath: Temp\UnityTempFile-f1e1bd27804a384418153a77db346f47
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-fdce116ef66382845ac4f5e3593c242c
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-fdce116ef66382845ac4f5e3593c242c
+      projectPath: Temp\UnityTempFile-fdce116ef66382845ac4f5e3593c242c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-fe84f9e5cf578934f97132e05da25312
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-fe84f9e5cf578934f97132e05da25312
+      projectPath: Temp\UnityTempFile-fe84f9e5cf578934f97132e05da25312
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\UnityTempFile-ff8ca8b37aabd27469d53585b19276ee
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\UnityTempFile-ff8ca8b37aabd27469d53585b19276ee
+      projectPath: Temp\UnityTempFile-ff8ca8b37aabd27469d53585b19276ee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\workerlic
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\workerlic
+      projectPath: Temp\workerlic
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: b94e8fb385f68a2423bf905cc66b60181bdc8dd0
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: sfjksklvj
+    description: 
+    timeString: 2021-05-23T18:24:55.000+05:30
+    commitTimeString: 2021-05-23T18:24:55.000+05:30
+    changes:
+    - path: Cooking Master\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+      projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\Assembly-CSharp.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Assembly-CSharp.dll.hash
+      projectPath: Temp\Assembly-CSharp.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\CompilationLog.txt
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\CompilationLog.txt
+      projectPath: Temp\CompilationLog.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\Unity.CollabProxy.Editor.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Unity.CollabProxy.Editor.dll.hash
+      projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\Unity.Rider.Editor.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Unity.Rider.Editor.dll.hash
+      projectPath: Temp\Unity.Rider.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\Unity.TextMeshPro.Editor.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Unity.TextMeshPro.Editor.dll.hash
+      projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\Unity.TextMeshPro.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Unity.TextMeshPro.dll.hash
+      projectPath: Temp\Unity.TextMeshPro.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\Unity.Timeline.Editor.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Unity.Timeline.Editor.dll.hash
+      projectPath: Temp\Unity.Timeline.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\Unity.Timeline.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Unity.Timeline.dll.hash
+      projectPath: Temp\Unity.Timeline.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Cooking Master\Temp\Unity.VisualStudio.Editor.dll.hash
+      fullPath: D:\game development\RealGame\Cooking Master\Temp\Unity.VisualStudio.Editor.dll.hash
+      projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: fea18d9114af40bd74a19fb677d2471bb581df47
+    mergeA: 
+    mergeB: 
+    authorName: d0ppler12
+    authorEmail: tanish12gupta@gmail.com
+    commitEmail: tanish12gupta@gmail.com
+    commitName: d0ppler12
+    summary: sgd
+    description: 
+    timeString: 2021-05-23T18:24:18.000+05:30
+    commitTimeString: 2021-05-23T18:24:18.000+05:30
+    changes:
+    - path: Cooking Master\Library\gfu\cache\branches.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Cooking Master\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\game development\RealGame\Cooking Master\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 6eab6729144f3a9798a7127947c7b1afa6340af1
     mergeA: 
     mergeB: 
